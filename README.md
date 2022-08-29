@@ -8,9 +8,12 @@ Crea tu propio Avatar: https://www.readyplayer.me/
 Descarga animaciones para tus modelos humanoides: https://www.mixamo.com
 
 
+
 Requisitos: 
 -Unity 2021.2.19f1 o superior
+
 -Dispositivo Apple compatible con ARKit y Face Tracking 
+
 -Aplicación Unity Face Capture instalada en el dispositivo
 
 ![App](https://github.com/DiegoTovar/RealidadVirtual2022-ARKit-ReadyPlayerMe/blob/main/Captura%20de%20pantalla%202022-08-29%20125934.png)

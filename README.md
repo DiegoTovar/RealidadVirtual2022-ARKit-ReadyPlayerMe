@@ -13,8 +13,7 @@ Requisitos:
 Ejecución:
 Hacer click en Play desde Editor y sincrinizar el servidor de Companion App Server en la pestaña Connections, para ello es necesario conectar el dispositivo Apple compatible a la misma red que la computadora, abrir la app Unity Face Capture e ingresar la dirección IP y puerto indicados en la pestaña Connections (también puede intentar conectarse automáticamente).
 ![Server]
-(https://github.com/DiegoTovar/RealidadVirtual2022-ARKit-ReadyPlayerMe/blob/main/Captura%20de%20pantalla%202022-08-29%20125810.png)
-
+(https://raw.githubusercontent.com/DiegoTovar/RealidadVirtual2022-ARKit-ReadyPlayerMe/main/Captura%20de%20pantalla%202022-08-29%20125810.png)
 Verá que sus movimientos faciales se ven reflejados en el Avatar en turno, puede cambiar de Avatar con la tecla Space.
 ![Running]
 (https://github.com/DiegoTovar/RealidadVirtual2022-ARKit-ReadyPlayerMe/blob/main/Captura%20de%20pantalla%202022-08-29%20131247.png)

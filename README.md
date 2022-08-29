@@ -9,7 +9,9 @@ Descarga animaciones para tus modelos humanoides: https://www.mixamo.com
 
 
 
+
 Requisitos: 
+
 -Unity 2021.2.19f1 o superior
 
 -Dispositivo Apple compatible con ARKit y Face Tracking 

@@ -2,8 +2,11 @@
 Presentación de un equipo de trabajo haciendo uso de avatares de Ready Player Me y Face Tracking de AR Kit en Unity
 
 Tutorial completo paso a paso para implementarlo: https://www.youtube.com/watch?v=d1JhZooDHeM
+
 Crea tu propio Avatar: https://www.readyplayer.me/
+
 Descarga animaciones para tus modelos humanoides: https://www.mixamo.com
+
 
 Requisitos: 
 -Unity 2021.2.19f1 o superior

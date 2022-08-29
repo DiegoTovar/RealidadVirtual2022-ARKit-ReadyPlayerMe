@@ -1,5 +1,5 @@
 # RealidadVirtual2022-ARKit-ReadyPlayerMe
-Presentación de un equipo de trabajo haciendo uso de avatares de Ready Player Me y Face Tracking de AR Kit en Unity
+Presentación de un equipo de trabajo haciendo uso de avatares de Ready Player Me y Face Tracking de AR Kit en Unity.
 
 Tutorial completo paso a paso para implementarlo: https://www.youtube.com/watch?v=d1JhZooDHeM
 
